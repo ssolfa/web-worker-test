@@ -1,0 +1,30 @@
+@keyframes moveLeftRight {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(200px);
+  }
+}
+
+@keyframes colorChange {
+  0% {
+    background-color: #3b82f6;
+  }
+  50% {
+    background-color: #10b981;
+  }
+  100% {
+    background-color: #3b82f6;
+  }
+}
+
+.css-moving-circle {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  animation: moveLeftRight 2s alternate infinite linear, colorChange 4s infinite;
+}
