@@ -1,5 +1,10 @@
 # Web Worker Performance Demo
-복잡한 연산이 UI에 미치는 영향과 Web Worker를 통한 최적화를 시각적으로 보여주는 데모 프로젝트입니다.
+Web FE 성능 향상 스터디의 **Web Worker를 활용한 웹 성능 최적화** 를 준비하며 만든 데모 프로젝트입니다.
+<br>
+복잡한 연산이 UI에 미치는 영향과 Web Worker를 통한 최적화를 시각적으로 보여줍니다.
+
+## 🎥 발표 영상은
+[스터디 발표 영상](https://www.youtube.com/watch?v=D-fU-vFsVrs&t=225s)애서 확인할 수 있습니다.
 
 ## 🚀 데모
 https://web-worker-test-wheat.vercel.app/main-thread
@@ -22,9 +27,6 @@ https://web-worker-test-wheat.vercel.app/main-thread
 - UI 차단 없이 무거운 작업 수행 가능
 - 독립적인 메모리 공간 사용
 - 메시지 기반의 통신
-
-## 🎥 발표 영상은
-[스터디 발표 영상](https://www.youtube.com/watch?v=D-fU-vFsVrs&t=225s)애서 확인할 수 있습니다.
 
 ## 📝 더 자세한 내용은
 [발표 자료 링크](https://smoggy-client-47f.notion.site/Web-Workers-1635cbc9c4888020a8b2f9aa5211d1f9)에서 확인할 수 있습니다.
