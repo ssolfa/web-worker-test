@@ -23,6 +23,9 @@ https://web-worker-test-wheat.vercel.app/main-thread
 - 독립적인 메모리 공간 사용
 - 메시지 기반의 통신
 
+## 🎥 발표 영상은
+[스터디 발표 영상](https://www.youtube.com/watch?v=D-fU-vFsVrs&t=225s)애서 확인할 수 있습니다.
+
 ## 📝 더 자세한 내용은
 [발표 자료 링크](https://smoggy-client-47f.notion.site/Web-Workers-1635cbc9c4888020a8b2f9aa5211d1f9)에서 확인할 수 있습니다.
 
